@@ -39,3 +39,4 @@
 
 "Transforming raw transaction data into actionable business intelligence that drives smarter decisions and enhances operational performance."
 
+Dashboard link - https://app.powerbi.com/groups/me/reports/edca90ce-02f5-42bf-9ccb-3d5f6a02d5d7?experience=power-bi
